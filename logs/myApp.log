@@ -1,0 +1,74 @@
+2023-10-05 13:09:05,061 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:09:09,671 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:09:09,988 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:09:11,684 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:09:21,368 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:09:21,774 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 13:14:25,142 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:14:25,403 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:14:31,664 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:14:31,971 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:14:33,124 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:14:33,329 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 13:29:41,301 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:29:45,839 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:29:46,006 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:29:47,810 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:29:56,362 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:29:56,766 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 13:31:01,949 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:31:06,707 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:31:06,898 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:31:08,948 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:31:18,280 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:31:18,807 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 13:32:28,422 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:32:32,850 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:32:33,003 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:32:34,689 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:32:41,820 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:32:41,997 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 13:51:56,450 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:52:01,638 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:52:01,805 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:52:03,662 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:52:12,088 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:52:12,254 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 13:57:52,317 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 13:57:57,015 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 13:57:57,156 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 13:57:58,912 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 13:58:05,866 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 13:58:06,009 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 20:59:40,550 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 20:59:44,808 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 20:59:44,934 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 20:59:46,530 : LoginPage : INFO : =============== TC02 verifying login page title ==============
+2023-10-05 20:59:53,101 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 20:59:53,224 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 20:59:54,759 : LoginPage : INFO : =============== TC03 verifying login page title ==============
+2023-10-05 21:00:03,440 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 21:00:04,982 : LoginPage : INFO : =============== getting login page title = Login: Mercury Tours
+2023-10-05 21:00:05,102 : LoginPage : INFO : =============== successful login title ==============
+2023-10-05 21:00:06,830 : LoginPage : INFO : =============== getting login page title = Welcome: Mercury Tours
+2023-10-05 21:00:07,010 : LoginPage : INFO : =============== passed login title ==============
+2023-10-05 21:00:08,598 : LoginPage : INFO : =============== getting login page title = Welcome: Mercury Tours
+2023-10-05 21:00:08,742 : LoginPage : INFO : =============== passed login title ==============
+2023-10-05 21:12:46,095 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 21:12:51,649 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 21:12:51,851 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 21:13:28,164 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 21:13:31,943 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 21:13:32,095 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 21:14:36,691 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 21:14:41,975 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 21:14:42,180 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 21:16:04,458 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 21:16:09,686 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 21:16:09,885 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 21:21:29,476 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 21:21:33,247 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 21:21:33,380 : LoginPage : INFO : =============== successful home page title ==============
+2023-10-05 21:21:50,497 : LoginPage : INFO : =============== TC01 verifying home page title ==============
+2023-10-05 21:21:54,052 : LoginPage : INFO : =============== getting title = Welcome: Mercury Tours
+2023-10-05 21:21:54,202 : LoginPage : INFO : =============== successful home page title ==============
